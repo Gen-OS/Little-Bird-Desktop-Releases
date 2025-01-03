@@ -1,6 +1,7 @@
 # Little-Bird-Desktop-Releases
 
-##0.11.19
+### v0.11.19
+
 Audio System Enhancements:
 Enhanced audio playback features
 Major component refactoring for better audio handling
