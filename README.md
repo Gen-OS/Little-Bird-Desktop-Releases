@@ -1,25 +1,6 @@
 # Little-Bird-Desktop-Releases
 
-### v0.11.19
+### Reverting a release
 
-Audio System Enhancements:
-Enhanced audio playback features
-Major component refactoring for better audio handling
-One of the most significant recent changes in this release.
-
-Mail Processing Improvements:
-Implemented ElementDepthFirstSequence for parsing mail
-This seems to be addressing some of the character count and element processing issues reported
-
-Authentication & Security:
-Added terms and privacy checkbox requirement
-
-User Experience Improvements:
-New user registration flow modifications
-Journal empty state handling
-
-Improved update notification system:
-New logic for first-time users seeing updates vs. login/signup options
-Edge case handling for automatic update pushes
- 
-Bugfixes and more!
+In order to revert the release, simply delete release `v0.xx.x` from https://github.com/Gen-OS/Little-Bird-Desktop-Releases/releases
+Anyone who has updated will be automatically downgraded.
